@@ -1,0 +1,7 @@
+1.Design a mini chat using 2 terminals
+2.Establish a TCP connection locally or between peers(if you choose this option make sure you both are in the same network)
+3.Send messages via this terminal to another one, make sure that both can see each other messages
+4.Read about Netcat to implement this task.
+(Hint: use Netcat)
+
+Write in the commands to do that and also the screenshots of the two terminals
