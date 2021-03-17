@@ -9,7 +9,7 @@ import com.zemoso.interactor.Forward;
 public class Main {
 
     public static void main(String[] args) {
-        Player sunilChetri = new Footballer(new Forward());
+        Footballer sunilChetri = new Footballer(new Forward());
         Cricketer suryaKumar = new Cricketer(new Batter());
 
         sunilChetri.playAs();

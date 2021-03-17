@@ -3,7 +3,7 @@ package com.zemoso.interactor;
 import com.zemoso.entity.CanPlayAs;
 import com.zemoso.entity.Player;
 
-public class Footballer extends Player {
+public class Footballer extends Player{
 
     public Footballer(CanPlayAs role) {
         super(role);
